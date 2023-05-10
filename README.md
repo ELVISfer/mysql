@@ -24,4 +24,4 @@ En esa tabla pertence lo que son los prestamos y la fechas de entrega de lbro
 
  ## Diagrama EER imagen
 
- 
+ ![alt text](https://github.com/ELVISfer/mysql/blob/main/Diagrama%20EER.PNG)
